@@ -19,11 +19,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- A Windows 10 Virtual Machine (VM) in Microsoft Azure
+- Download the necesarry [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
+- Enable / Install IIS in Windows with CGI
+- Install the files from the [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) Google Drive folder
+- Finalize the installation of osTicket in the broswer
 
 <h2>Installation Steps</h2>
 
