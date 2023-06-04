@@ -28,12 +28,26 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-Create a Virtual Machine (VM) in Microsoft Azure
-<img src="https://i.imgur.com/tO6oefl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/Ky09Y4d.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/uvdqpFd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Before making a VM, you must first create a Resource Group. This resource group is going to house the VM and whatever resources is needed for a specific solution on Azure.
 
- Go to the [Microsoft Azure Portal](https://portal.azure.com/) after creating your first subcription to use the service. Type "Resource Groups" and click the link with the same name.
+<img src="https://i.imgur.com/xgurseo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p>
+ 
+ Type "Resource Group" in the searchbar and click on the link with the same name. 
+<img src="https://i.imgur.com/EueHUmp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <p>
+  On that page click the create button.
+<img src="https://i.imgur.com/kN0QrIT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/yVN5vOA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <p>
+   Select your Subscription, name your Resource Group, select the region you want your Resource Group to be located and click "review & create".
+   
+   <img src="https://i.imgur.com/26nN6tT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+   <p>
+    Type "Virtual Machine" into the searchbar and click the tab of with the same name. On that page click the "create" button and select "Azure Virtual Machine" from it.
+
+ Go to the [Microsoft Azure Portal](https://portal.azure.com/) after creating your first subcription to use the service. Type "Resource Groups" and click the link with the same name. Give Azure some time for it validate the creation of your Resource Group and click "Create" after.
 
   
 </p>
