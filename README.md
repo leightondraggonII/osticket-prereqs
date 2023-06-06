@@ -43,17 +43,34 @@ Before making a VM, you must first create a Resource Group. This resource group 
   <p>
    Select your Subscription, name your Resource Group, select the region you want your Resource Group to be located and click "review & create".
    
+   <p>
+   
    <img src="https://i.imgur.com/26nN6tT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
    <p>
     Type "Virtual Machine" into the searchbar and click the tab of with the same name. On that page click the "create" button and select "Azure Virtual Machine" from it.
 
  Go to the [Microsoft Azure Portal](https://portal.azure.com/) after creating your first subcription to use the service. Type "Resource Groups" and click the link with the same name. Give Azure some time for it validate the creation of your Resource Group and click "Create" after.
 
-  
 </p>
+ 
+
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Choose your subscription and resource group. Name your VM and select what region you want your VM to be in. Choose Windows 10 Pro, x64 as your image. Leave everything else on the screenshot as is.
 </p>
+
+<img src="https://i.imgur.com/of8FVrx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <p>
+ Choose the size of your virtual machine (CPU cores and Memory). Create a user name and password for access to your VM. Click "Review and Create".
+ <p>
+  
+  <img src="https://i.imgur.com/0vpu3A2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+  <p>
+   
+   Let Azure validate your VM and click create after. If your VM is not validated, it means that there was error in your selections or (in my personal experience) a error in the validation process on Azure's end. In that case just retry validating it with the same selections again.
+   
+  
+
 <br />
 
 <p>
