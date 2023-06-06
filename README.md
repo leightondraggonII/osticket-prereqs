@@ -67,7 +67,11 @@ Choose your subscription and resource group. Name your VM and select what region
   
   <p>
    
-   Let Azure validate your VM and click create after. If your VM is not validated, it means that there was error in your selections or (in my personal experience) a error in the validation process on Azure's end. In that case just retry validating it with the same selections again.
+   Let Azure validate your VM and click create after. If your VM is not validated, it means that there was error in your selections or (in my personal experience) a error in the validation process on Azure's end. In that case just retry validating it with the same selections again. Click create after the validation is passed.
+   
+  <p>
+   
+   <img src="https://i.imgur.com/0vpu3A2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
    
   
 
