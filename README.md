@@ -71,24 +71,40 @@ Choose your subscription and resource group. Name your VM and select what region
    
   <p>
    
-   <img src="https://i.imgur.com/0vpu3A2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+   <img src="https://i.imgur.com/bDVzufU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+   
+   Azure will begin deloying your VM. After the deployment process is done, you can click "Go to resources" to immediately access your VM's overview page, or you can navigate to it through "Virtual Machines" page.
+   
+   
    
   
 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/shd9TVn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/shd9TVn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+</p>
+<p>
+On the VM overview page, copy the public IP address.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/3n97cE6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/iyn8p1S.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+On your desktop, search "remote desktop connection" and click on the application. On the logon settings, paste the copied public IP address from the VM overview page and enter your chosen username from the VM creation process.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/3n97cE6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
