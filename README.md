@@ -115,7 +115,7 @@ On your desktop, search "remote desktop connection" and click on the application
 <img src="https://i.imgur.com/ItMgiY5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
- After you logon to your VM, open up Microsoft Edge and download the [installation files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) from this [link](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) "https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6"
+ After you logon to your VM, open up Microsoft Edge and download the installation files from this link "https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6"
 </p>
 <br />
 
