@@ -161,6 +161,7 @@ After installing PHP Manager, again navigate to back to the installation folder 
 <p>
 <img src="https://i.imgur.com/PhYqTfM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/3BFUiZp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/dSuuROH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -171,26 +172,39 @@ Create a folder named "PHP" in your C: drive directory. In your Installtion File
 <br />
 
 <p>
-<img src="https://i.imgur.com/3n97cE6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/pDnZDM6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/x6sZdyE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/3n97cE6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Returning again to the Installation Files folder install VC_redist.x86.exe. Defualt settings the same as before.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/3n97cE6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/sDADVgZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gVmExPq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DmA9JTU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After that, begin the install of MySQL 5.5.62 as well.
+</p>
+Select "Typical install"
+</p>
+Leave "Launch Configuration Wizard" check after and click "Finish"
+</p>
+Check "Standard Configuration" on the second window
+</p>
+Create a Root Password for your service
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/uFwSTaq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/uFwSTaq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/uFwSTaq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Open the IIS program as a adminstrator by right-clicking and selecting the option.
 </p>
 <br />
 
