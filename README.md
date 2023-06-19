@@ -141,9 +141,31 @@ Expand the Internet Information Services tab by clicking the box symbol next to 
 
 <p>
 <img src="https://i.imgur.com/antVLUG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/In7gSwj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Navigate back over to your Installation Files folder and install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi).
+Navigate back over to your Installation Files folder and install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi). Just continue through the installation with standard settings unchanged.
+
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/AzvbtOS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Fl6OGVJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+After installing PHP Manager, again navigate to back to the installation folder and install the Rewrite Module (rewrite_amd64_en-US.msi). All defualt settings like the last step.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/PhYqTfM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3BFUiZp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+Create a folder named "PHP" in your C: drive directory. In your Installtion Files folder there is a zip file named "php-7.3.8-nts-Win32-VC15-x86.zip", exact the contents on that file into the PHP folder we just made.
+
 
 </p>
 <br />
@@ -163,6 +185,40 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/3n97cE6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/3n97cE6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/3n97cE6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+
+
+
+
+
+
+
+
+
 
 
 
