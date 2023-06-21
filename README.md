@@ -200,11 +200,25 @@ Create a Root Password for your service
 
 <p>
 <img src="https://i.imgur.com/uFwSTaq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/uFwSTaq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/uFwSTaq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ywKwvUA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/dhAFBDV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/F3Nh665.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/v4w3ew1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/KuaMzFR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Open the IIS program as a adminstrator by right-clicking and selecting the option.
+<p>
+PHP Manager should appear after opening as admin, open PHP Manager.
+ <p>
+Click "Register new PHP Version".
+  <p>
+Locate "php-cgi.exe" in the PHP folder we made earlier, through the applications file search.
+ <p>
+ Highlight the "OSticket-VM (OSticket-VM\your username).
+  <p>
+  Click "restart" in the Action tab to the right.
+
 </p>
 <br />
 
