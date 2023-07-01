@@ -247,10 +247,47 @@ Navigate to Sites\default\osTicket in IIS
  Open up PHP Manager
  <p>
  Click "enable or disable an extension"
+ <p>
+ Enable extenstions "php_imap.dll"  "php_intl.dll" and "php_opcache.dll".
+ <p>
+ Refresh osTicket in your broswer.
  
 <br />
 
 <p>
+<img src="https://i.imgur.com/xRfC1Sw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Navigate to C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
+<p>
+Rename "ost-sampleconfig" to "ost-config"
+
+ 
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/KdY38mx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8Bh59tr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/XiXGaFv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gM9i8Iu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/SHuWMcT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Right-click on "ost-config" and click "Properties".
+<p>
+Tab to "Security" and click "Advanced"
+<p>
+Click "Disable inheritance" and "remove all permissions" after.
+<p>
+Click "Add". On "Permission Entry" click "select a princple". Type "everyone" into the text box, click "check names" and "OK".
+<p>
+Back on the Permission Entry check the "Full Control" box. Remember to click "Apply" and "OK" on any previous windows to keep our settings.
+
+</p>
+<br />
+
+<p>
 <img src="https://i.imgur.com/3n97cE6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
@@ -265,6 +302,32 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/3n97cE6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/3n97cE6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/3n97cE6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+
 
 
 
